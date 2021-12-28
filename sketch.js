@@ -75,3 +75,5 @@ redL.scale=0.06;
   redL.velocityY = 3;
   redL.lifetime = 150;
 }
+
+document.title = "Rabbit Game";
